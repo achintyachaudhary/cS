@@ -1,0 +1,5 @@
+Mac:
+    netstat -vanp tcp | grep 3000
+
+Ubuntu:
+    
